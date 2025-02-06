@@ -28,7 +28,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Riz, a Web Developer.
+            Hi! I&apos;m Riz, I develop web pages.
           </p>
 
           <a href="#about">

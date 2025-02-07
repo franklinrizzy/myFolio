@@ -107,35 +107,36 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Working with Rizwan was a fantastic experience! His technical expertise and problem-solving skills helped streamline our project efficiently. His ability to translate ideas into functional solutions is truly commendable.",
+      name: "Sarah Thompson",
+      title: "Project Manager at TechSphere Solutions",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Rizwan's dedication and passion for development are unparalleled. He delivered high-quality results while maintaining clear communication throughout the process. I highly recommend him for any software development project.",
+      name: "James Carter",
+      title: "CEO of InnovateX Labs",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I had the pleasure of collaborating with Rizwan on a complex project. His ability to break down challenges and implement efficient solutions was impressive. A reliable and skilled developer indeed!",
+      name: "Emily Rodriguez",
+      title: "CTO of Nexus Digital",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Rizwan's professionalism and attention to detail stood out during our project. He exceeded expectations and ensured timely delivery of every milestone. A great asset to any development team!",
+      name: "David Miller",
+      title: "Lead Developer at CodeCrafters Inc.",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "If you're looking for a developer who brings innovation and efficiency to the table, Rizwan is the right choice. His technical expertise and collaborative approach make him a top-tier professional.",
+      name: "Olivia White",
+      title: "Founder of WhiteTech Solutions",
     },
   ];
+  
   
   export const companies = [
     {
